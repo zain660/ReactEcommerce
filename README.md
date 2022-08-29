@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is a Simple E-commerce built with Nodejs, Tailwind css and Reactjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
